@@ -1,11 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](www.linkedin.com/in/hasan-al-mahadi-4a33b62b7)
 <h1 align="center">Hi 👋, I'm Hasan Al Mahadi</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
-
+<h3 align="center">A passionate Android Developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tem-mahadi&label=Profile%20views&color=0e75b6&style=flat" alt="tem-mahadi" /> </p>
 
-- 🔭 I’m currently working on **Pack Your Bag**
+- 🔭 I’m currently working on **Pack Your Bag (Project)**
 
 - 🌱 I’m currently learning **Android App Development**
 
