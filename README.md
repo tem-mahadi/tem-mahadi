@@ -1,10 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](www.linkedin.com/in/hasan-al-mahadi-4a33b62b7)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/hasan-al-mahadi-4a33b62b7)
 <h1 align="center">Hi 👋, I'm Hasan Al Mahadi</h1>
 <h3 align="center">A passionate Android Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tem-mahadi&label=Profile%20views&color=0e75b6&style=flat" alt="tem-mahadi" /> </p>
 
-- 🔭 I’m currently working on **Pack Your Bag (Project)**
+- 🔭 I’m currently working on [Pack Your Bag](https://github.com/tem-mahadi/Pack-Your-Bag)
 
 - 🌱 I’m currently learning **Android App Development**
 
@@ -16,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hasan al mahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan al mahadi" height="30" width="40" /></a>
-<a href="https://fb.com/hasan al mahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasan al mahadi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasan-al-mahadi-4a33b62b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-al-mahadi-4a33b62b7" height="30" width="40" /></a>
+<a href="https://fb.com/hasanal.mahadi.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasanal.mahadi.9" height="30" width="40" /></a>
 <a href="https://instagram.com/tem.mahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tem.mahadi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tem_mahadi_ruet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tem_mahadi_ruet" height="30" width="40" /></a>
 <a href="https://discord.gg/tem_mahadi_92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tem_mahadi_92" height="30" width="40" /></a>
