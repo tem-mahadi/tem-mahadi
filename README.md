@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I am 'lil bit funny...**
 
+ <div align="left"><img src="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasan-al-mahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-al-mahadi-4a33b62b7" height="30" width="40" /></a>
