@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tem-mahadi&label=Profile%20views&color=0e75b6&style=flat" alt="tem-mahadi" /> </p>
 
-- 🔭 I’m currently working on [Pack Your Bag](https://github.com/tem-mahadi/Pack-Your-Bag)
+- 🔭 I’m currently working on [MEDiCARE](https://github.com/tem-mahadi/MEDiCARE)
 
 - 🌱 I’m currently learning **Android App Development**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahadi4uruetcse21@gmail.com**
 
-- ⚡ Fun fact **I am 'lil bit funny...**
+- ⚡ Fun fact **I am so Lucky...**
 
  <div align="left"><img src="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><div>
 
