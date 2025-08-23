@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tem-mahadi&label=Profile%20views&color=0e75b6&style=flat" alt="tem-mahadi" /> </p>
 
-- 🔭 I’m currently working on [MEDiCARE](https://github.com/tem-mahadi/MEDiCARE)
+- 🔭 I’m currently working on [MediMeet](https://github.com/tem-mahadi/MediMeet)
 
 - 🌱 I’m currently learning **Android App Development**
 
