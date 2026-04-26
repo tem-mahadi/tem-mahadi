@@ -30,13 +30,6 @@
 
 <br/><br/>
 
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Trophy**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tem-mahadi&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="tem-mahadi trophies" />
-</div>
 
 ---
 
@@ -118,8 +111,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/tem-mahadi/tem-mahadi/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> ⚠️ *If the snake animation doesn't appear, you need to set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your repository.*
 
 ---
 
